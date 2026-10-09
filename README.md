@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Starsfall-X! 👋
 
-<!--
-**Starsfall-X/Starsfall-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名热爱编程的开发者，正在专注于后端开发学习。
+欢迎来到我的 GitHub 空间！在这里，你可以看到我的一些项目、学习笔记以及日常折腾的代码。
 
-Here are some ideas to get you started:
+## 🛠️ 技术栈 & 工具
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **编程语言**: Java（Learning）
+- **框架/库**: Learning
+- **数据库**: Learning
+- **工具**: Git, VS Code
+
+## 🚀 我正在做 / 感兴趣的事
+
+- 🌱 正在学习：Java
+- 💬 欢迎交流：算法题解
+
+
+---
+*Thanks for visiting! Happy Coding!* 🚀
